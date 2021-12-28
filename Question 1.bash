@@ -17,5 +17,5 @@ then
 
  else
 
-   echo "it is not odd"
+   echo "Value not perfect"
 fi
